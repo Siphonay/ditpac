@@ -1,0 +1,12 @@
+{
+	"name": "ditpac",
+	"authors": [
+		"Alexis Viguié"
+	],
+	"dependencies": {
+		"dlibgit": "~>0.50.6"
+	},
+	"description": "An UNIX package manager written in D and relying on git repositories",
+	"copyright": "Copyright (c) 2017 Alexis Viguié",
+	"license": "MIT License"
+}
